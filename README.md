@@ -1,7 +1,9 @@
 
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
 
+<p align="center">
 Filip Mordych (filipmordych@gmail.com)
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/filip-mordych-b38164161/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

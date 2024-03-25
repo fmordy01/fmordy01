@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Filip Mordych (filipmordych@gmail.com)
+Filip Mordych (<a href="mailto:filipmordych@gmail.com">filipmordych@gmail.com</a>)
 </h1>
 
 <p>

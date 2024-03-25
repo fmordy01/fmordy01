@@ -5,9 +5,9 @@ Filip Mordych (filipmordych@gmail.com)
 
 <p>
   <div align="center">
-    <a href="https://github.com/fmordy01/README.md#about-me">About Me</a> |  
-    <a href="https://github.com/fmordy01/README.md#tech-skills">Tech Skills</a> | 
-    <a href="https://github.com/fmordy01/README.md#projects">Projects</a> | 
+    <a href="https://github.com/fmordy01#about-me">About Me</a> |  
+    <a href="https://github.com/fmordy01#tech-skills">Tech Skills</a> | 
+    <a href="https://github.com/fmordy01#projects">Projects</a> | 
   </div>
 </p>
 
@@ -20,7 +20,7 @@ About me
 -------
 Hi my name is Filip! 
 
-Texh Skills
+Tech Skills
 -------
 
 Projects

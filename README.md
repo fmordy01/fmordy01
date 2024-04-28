@@ -33,13 +33,9 @@ Tech Skills
 
 Projects
 -------
-<a href="https://github.com/fmordy01/MakersBnB">MakersBnB</a>
-
-Back-end and front-end accommodation booking site based on Airbnb, developed in an agile team using sprints, using a ticket system and TDD.
-
-Features: Authentication using Flask sessions (registering, login), viewing a listing, creating new listings, confirmations, requesting accommodation
-
-Tech stack: Python, Flask, HTML, CSS, PostgreSQL
+| Project | Description | Features | Tech Stack |
+|---------|-------------|----------|------------|
+| [MakersBnB](https://github.com/fmordy01/MakersBnB) | Back-end and front-end accommodation booking site based on Airbnb, developed in an agile team using sprints and TDD. | - Authentication (login/register) <br> - Viewing listings <br> - Creating listings <br> - Booking confirmations | Python, Flask, HTML, CSS, PostgreSQL |
 
 
 

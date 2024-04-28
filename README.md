@@ -33,7 +33,6 @@ Tech Skills
 
 Projects
 -------
-<p style="border-width:3px; border-style:solid; border-color:#000000; padding: 1em;">
 <a href="https://github.com/fmordy01/MakersBnB">MakersBnB</a>
 
 Back-end and front-end accommodation booking site based on Airbnb, developed in an agile team using sprints, using a ticket system and TDD.
@@ -41,6 +40,7 @@ Back-end and front-end accommodation booking site based on Airbnb, developed in 
 Features: Authentication using Flask sessions (registering, login), viewing a listing, creating new listings, confirmations, requesting accommodation
 
 Tech stack: Python, Flask, HTML, CSS, PostgreSQL
-</p>
+
+
 
 

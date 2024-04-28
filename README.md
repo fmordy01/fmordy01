@@ -23,13 +23,13 @@ As a former hospitality manager with a background in IT studies from high school
 Tech Skills
 -------
 
-➢ Languages: Python, HTML, CSS, JavaScript
-➢ Databases: PostgreSQL, MySQL
-➢ Cloud: AWS, Terraform, Docker
+➢ Languages: Python, HTML, CSS, JavaScript <br>
+➢ Databases: PostgreSQL, MySQL <br>
+➢ Cloud: AWS, Terraform, Docker<br>
 
-Testing: Pytest
-Version control: Git, Github 
-Automation: Jenkins, Github Actions
+Testing: Pytest <br>
+Version control: Git, Github <br>
+Automation: Jenkins, Github Actions <br>
 
 Projects
 -------
@@ -40,4 +40,5 @@ Back-end and front-end accommodation booking site based on Airbnb, developed in 
 
 Features: Authentication using Flask sessions (registering, login), viewing a listing, creating new listings, confirmations, requesting accommodation
 
+Tech stack: Python, Flask, HTML, CSS, PostgreSQL
 

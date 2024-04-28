@@ -18,10 +18,26 @@ Filip Mordych (<a href="mailto:filipmordych@gmail.com">filipmordych@gmail.com</a
 
 About me
 -------
-Hi my name is Filip! 
+As a former hospitality manager with a background in IT studies from high school and university, I began as a commis waiter moving to the UK. I'm transitioning to a tech career with a strong work ethic and a passion for technology's transformative potential. My leadership and teamwork skills, honed in fast-paced environments, are complemented by my current enrollment at Makers, where I'm rapidly gaining technical expertise. I'm driven by technology's power to innovate, and I'm excited to contribute to this dynamic field. In my previous role, I gained experience in self-sufficiency which has been reinforced due to Makers aim to develop tech professionals able to adapt and learn fast diving deep into self-managed study and research as well as working in pairs and group settings welcoming feedback and inclusivity.
 
 Tech Skills
 -------
 
+➢ Languages: Python, HTML, CSS, JavaScript
+➢ Databases: PostgreSQL, MySQL
+➢ Cloud: AWS, Terraform, Docker
+
+Testing: Pytest
+Version control: Git, Github 
+Automation: Jenkins, Github Actions
+
 Projects
 -------
+
+<a href="https://github.com/fmordy01/MakersBnB">MakersBnB</a>
+
+Back-end and front-end accommodation booking site based on Airbnb, developed in an agile team using sprints, using a ticket system and TDD.
+
+Features: Authentication using Flask sessions (registering, login), viewing a listing, creating new listings, confirmations, requesting accommodation
+
+

@@ -18,7 +18,7 @@ Filip Mordych (<a href="mailto:filipmordych@gmail.com">filipmordych@gmail.com</a
 
 About me
 -------
-As a former hospitality manager with a background in Computer science studies from high school and university, I began as a commis waiter moving to the UK. I'm transitioning to a tech career with a strong work ethic and a passion for technology's transformative potential. My leadership and teamwork skills, honed in fast-paced environments are complemented by my graduation from Makers bootcamp, where I have rapidly gained technical expertise. I'm driven by technology's power to innovate, and I'm excited to contribute to this dynamic field. In my previous role, I gained experience in self-sufficiency which has been reinforced due to Makers aim to develop tech professionals able to adapt and learn fast diving deep into self-managed study and research as well as working in pairs and group settings welcoming feedback and inclusivity.
+Computer Science and Makers Cloud engineering graduate, with a hospitality management background,  I'm transitioning to a tech career with a strong work ethic and a passion for technology's transformative potential. My leadership and teamwork skills, honed in fast-paced environments are complemented by my studies, where I have rapidly gained technical expertise. I'm driven by technology's power to innovate, and I'm excited to contribute to this dynamic field. In my previous role, I gained experience in self-sufficiency which has been reinforced due to Makers aim to develop tech professionals able to adapt and learn fast, diving deep into self-managed study and research as well as working in pairs and group settings welcoming feedback and inclusivity.
 
 Tech Skills
 -------

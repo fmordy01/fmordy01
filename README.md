@@ -27,9 +27,9 @@ Tech Skills
 ➢ Databases: PostgreSQL, MySQL <br>
 ➢ Cloud: AWS, Terraform, Docker<br>
 
-Testing: Pytest <br>
-Version control: Git, Github <br>
-Automation: Jenkins, Github Actions <br>
+➢ Testing: Pytest <br>
+➢ Version control: Git, Github <br>
+➢ Automation: Jenkins, Github Actions <br>
 
 Projects
 -------

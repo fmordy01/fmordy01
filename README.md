@@ -40,6 +40,10 @@ Projects
 | [MakersBnB](https://github.com/fmordy01/MakersBnB) | Back-end and front-end accommodation booking site based on Airbnb, developed in an agile team using sprints and TDD. | - Authentication (login/register) <br> - Viewing listings <br> - Creating listings <br> - Booking confirmations | Python, Flask, HTML, CSS, PostgreSQL |
 | [NoteKeeper](https://github.com/fmordy01/Django-react-web-app) | A full-stack web application for managing personal notes, using Python and Django for the backend and React for the frontend, with JWT authentication. | - User registration <br> - Login <br> - Create, Read, Update, Delete (CRUD) notes | Python, Django, JavaScript, React, JWT |
 
+Currently working on: 
+
+Backend REST API with Python & Django using Docker and TDD.
+
 
 
 

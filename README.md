@@ -26,7 +26,7 @@ Tech Skills
 
 ➢ Languages: Python, HTML, CSS, JavaScript <br>
 ➢ Databases: PostgreSQL, MySQL <br>
-➢ Cloud: AWS, Terraform, Docker<br>
+➢ Cloud: AWS, Terraform, Docker, CI/CD pipelines<br>
 ➢ Frameworks & Libraries: Django, Flask<br>
 
 ➢ Testing: Pytest <br>

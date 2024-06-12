@@ -42,7 +42,7 @@ Projects
 
 Currently working on: 
 
-Backend REST API with Python & Django using Docker and TDD.
+CRUD [News application](https://github.com/fmordy01/mean-typescript-news-app) using Typescript, Node.js for the backend and Angular, Typescript for frontend (MEAN stack). 
 
 
 

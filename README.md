@@ -16,6 +16,8 @@ Filip Mordych (<a href="mailto:filipmordych@gmail.com">filipmordych@gmail.com</a
   <a href="https://github.com/fmordy01/CV"><img src="https://img.shields.io/badge/GithubCV-4B4B4B?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
+💼 Open to Work 🟢 -> Let's connect!
+
 About me
 -------
 Computer Science graduate and Junior Software Developer from Makers with a background in hospitality management. My training at Makers equipped me with essential technical skills such as object-oriented programming, Agile methodologies, and test-driven development, honed through immersive, real-world projects. This experience not only fostered rapid adaptation but also instilled a strong sense of self-motivated learning and collaborative teamwork, mirroring real-world work environments. Leveraging my prior hospitality experience, I excel in understanding and fulfilling customer needs, translating seamlessly into user-centric software solutions. I'm eager to merge these diverse skill sets into innovative and inclusive projects within the tech landscape.
